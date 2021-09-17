@@ -6,11 +6,11 @@
 
 
 ### Urunler sayfası
-![anasayfa](images/products.png)
+![urunler](images/products.png)
 
 
 ### Hakkimizda sayfası
-![anasayfa](images/aboutus.png)
+![hakkimizda](images/aboutus.png)
 
 ### License
 
