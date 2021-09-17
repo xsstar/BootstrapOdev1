@@ -1,0 +1,66 @@
+.body-anasayfa{
+    background-color: #9eb618;
+}
+
+/* .body-products{
+  background-color: rgb(138, 184, 79);
+} */
+
+body.about{
+  margin: 0;
+  text-align: center;
+  color: rgb(10, 7, 9);
+  background-color: rgb(96, 79, 139);
+  padding: 0;
+} 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-position: inside;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #9eb618;
+    text-align: center;
+    list-style-type: none;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-weight: 1000;
+  }
+  
+ 
+
+  li a:hover:not(.active) {
+    background-color:coral;
+    color: black;
+    list-style-position: inside;
+    list-style: none;
+    font-weight: 1000;
+  }
+
+ 
+.imgbootstrap{
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: auto;
+  max-height: 100%;
+  }  
+  
+.img{
+  width: 100px;
+  height: 100px;
+  }  
+
+  .card{
+    margin-bottom: 100px;
+ 
+}
