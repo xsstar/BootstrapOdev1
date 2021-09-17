@@ -6,7 +6,7 @@
 
 
 ### Urunler sayfası
-![anasayfa](images/product.png)
+![anasayfa](images/products.png)
 
 
 ### Hakkimizda sayfası
